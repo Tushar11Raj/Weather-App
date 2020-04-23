@@ -1,0 +1,2 @@
+# Weather-App
+This is an app made up using flutter and dart. I made this app while learning under the guidance of londonappbrewery. I have used openweather's api to get access to the weather of a locatiion. User can get access to current location or input custom location to get the weather data of that place. In this project i have learnt to get access to location of a device , date , time and use api from a server. 
